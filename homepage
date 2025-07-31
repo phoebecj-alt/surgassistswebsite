@@ -1,0 +1,9 @@
+surgassists-website/
+├── index.html (your website code)
+└── images/
+    ├── dashboard.png (your hero image)
+    ├── good-growth-logo.png
+    ├── anthropy-logo.png
+    ├── innovate-uk-logo.png
+    ├── accelerateher-logo.png
+    └── exeter-innovation-logo.png
